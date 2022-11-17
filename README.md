@@ -5,6 +5,7 @@
 * [FEA_Part 1](#FEA_Part_1)
 * [FEA_Part 2](#FEA_Part_2)
 * [FEA_Part 3](#FEA_Part_3)
+* [Extra Design](#Extra_Design)
 
 
 ## FEA_Part_1
@@ -37,11 +38,16 @@ Iterative Design
 ### Reflection
 As you can see we added more triangles to take stress off of weak points and we ended up adding more support in the center of the beam. We decided to get rid of a diamond in the pattern on the side wall and add a triangle and a smaller diamond to reduce stress. When we retested it we got a better score on this beam compared to the first beam.   
 
-## Extra design
+## Extra_Design
 
 ### Description
+THe extra design Mr. Miller wanted to test
+
+### Part Image
+<img src="https://user-images.githubusercontent.com/71342195/202484399-a602cb3b-7bca-48d5-a615-8cb30eb71620.png" width="600">
+
+### Reflection
 In what we thought would be a fix for our final design, we added beams in the middle of all the triangles. This was to counteract the stress which was conectrated at the top of these triangles. When we ran the simulation for this design, the Von Mises stress was higher, which was weird. Also the stress point was in a place that didn't make sense. In the end we ended up not going with this design for these reasons. 
 
 
-<img src="https://user-images.githubusercontent.com/71342195/202484399-a602cb3b-7bca-48d5-a615-8cb30eb71620.png" width="600">
 
