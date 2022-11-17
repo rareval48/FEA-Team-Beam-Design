@@ -14,11 +14,8 @@ Initial design of the beam
 ### Part Image
 <img src="https://user-images.githubusercontent.com/71342195/201368972-60be90cd-ab27-4af6-bca0-1178c419fffb.png" width="600"><img src="https://user-images.githubusercontent.com/71342195/201956934-0a3b6bb5-5690-4185-a896-5e9d26e0884a.png" width="200">
 
-
-
 ### Reflection
 Our initial design is based on an I beam. But instead of making an I beam we used triangles so that there was more support and rigidity. But since we needed to get rid of weight we needed to cut holes into the sides so that the total beam weight is >= 13 grams. We did pretty good on our first idea considering that we also got rid of alot of weight by getting rid of extra hangovers that wouldnt've didnt give as much support as it should've considering all the weight it was.
-
 
 ## FEA_Part_2
 ### Description
@@ -35,11 +32,7 @@ We did decent on our first attempt but made alot of changes. We ended up making 
 Iterative Design
 
 ### Part Image
-<img src="https://user-images.githubusercontent.com/71342195/202470484-71dbd957-aab6-425a-898f-44caf46d3896.png" width="600"><img src="https://user-images.githubusercontent.com/71342195/201960051-f495fbc2-ce61-4e19-ba86-23a775671d54.png" width="200">
-
-
-
-
+<img src="https://user-images.githubusercontent.com/71342195/202476218-bf3bfc9b-608c-4a95-8528-45043f271c07.png" width="600"><img src="https://user-images.githubusercontent.com/71342195/201960051-f495fbc2-ce61-4e19-ba86-23a775671d54.png" width="200">
 
 ### Reflection
-As you can see we added more triangles to take stress off of weak points and we ended up adding more support in the center of the beam. We also added beams in the middle of the first two triangles as extra support so that it took stress off of the weak points.    
+As you can see we added more triangles to take stress off of weak points and we ended up adding more support in the center of the beam. We decided to get rid of a diamond in the pattern on the side wall and add a triangle and a smaller diamond to reduce stress. When we retested it we got a better score on this beam compared to the first beam.   
