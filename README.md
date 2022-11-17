@@ -28,16 +28,18 @@ Simscale Workflow
 <img src="https://user-images.githubusercontent.com/71342195/201369246-3574bfac-4779-4b21-ba10-79b7a163ae12.png" width="600">
 
 ### Reflection
-We did decent on our first attempt with a ____. We ended up making changes to the beam so that there was more support on weak points and less support on strong points. As we added more support there was also weight that was added. So we took cut more triangles in places that didnt need support and took of 2 support walls to cut weight. Once we got down to an acceptable weight we then retested the beam.
+We did decent on our first attempt but made alot of changes. We ended up making changes to the beam so that there was more support on weak points and less support on strong points. As we added more support there was also weight that was added. So we took cut more triangles in places that didnt need support and took of 2 support walls to cut weight. Once we got down to an acceptable weight we then retested the beam.
 
 ## FEA_Part_3
 ### Description
 Iterative Design
 
 ### Part Image
-<img src="https://user-images.githubusercontent.com/71342195/201952597-a6f74dd6-861e-430a-bf9d-8ca73a0c29f2.png" width="600"><img src="https://user-images.githubusercontent.com/71342195/201960051-f495fbc2-ce61-4e19-ba86-23a775671d54.png" width="200">
+<img src="https://user-images.githubusercontent.com/71342195/202470484-71dbd957-aab6-425a-898f-44caf46d3896.png" width="600"><img src="https://user-images.githubusercontent.com/71342195/201960051-f495fbc2-ce61-4e19-ba86-23a775671d54.png" width="200">
+
+
 
 
 
 ### Reflection
-AS you can see we added more traingles to take stress off of weak points and we ended up adding more support on the support in the center of the beam.  
+As you can see we added more triangles to take stress off of weak points and we ended up adding more support in the center of the beam. We also added beams in the middle of the first two triangles as extra support so that it took stress off of the weak points.    
