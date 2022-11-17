@@ -43,5 +43,5 @@ As you can see we added more triangles to take stress off of weak points and we 
 In what we thought would be a fix for our final design, we added beams in the middle of all the triangles. This was to counteract the stress which was conectrated at the top of these triangles. When we ran the simulation for this design, the Von Mises stress was higher, which was weird. Also the stress point was in a place that didn't make sense. In the end we ended up not going with this design for these reasons. 
 
 
-<img src="https://github.com/rareval48/FEA-Team-Beam-Design/blob/main/SimulationGlitch.PNG" width="600">
+<img src="https://user-images.githubusercontent.com/71342195/202484399-a602cb3b-7bca-48d5-a615-8cb30eb71620.png" width="600">
 
