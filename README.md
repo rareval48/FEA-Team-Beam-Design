@@ -36,3 +36,11 @@ Iterative Design
 
 ### Reflection
 As you can see we added more triangles to take stress off of weak points and we ended up adding more support in the center of the beam. We decided to get rid of a diamond in the pattern on the side wall and add a triangle and a smaller diamond to reduce stress. When we retested it we got a better score on this beam compared to the first beam.   
+
+## Extra design
+
+### Description
+In what we thought would be a fix for our final design, we added beams in the middle of all the triangles. This was to counteract the stress which was conectrated at the top of these triangles. When we ran the simulation for this design, the Von Mises stress was higher, which was weird. Also the stress point was in a place that didn't make sense. In the end we ended up not going with this design for these reasons. 
+
+
+<img src="images/Glitchedbeam.png" alt="BlinkingBoard" width="450">
