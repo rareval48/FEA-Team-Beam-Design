@@ -41,7 +41,7 @@ As you can see we added more triangles to take stress off of weak points and we 
 ## Extra_Design
 
 ### Description
-The extra design Mr. Miller wanted to test
+Failed extra design
 
 ### Part Image
 <img src="https://user-images.githubusercontent.com/71342195/202484399-a602cb3b-7bca-48d5-a615-8cb30eb71620.png" width="600">
